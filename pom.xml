@@ -18,9 +18,8 @@
   <!-- Source: https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter-api -->
 <dependency>
     <groupId>org.junit.jupiter</groupId>
-    <artifactId>junit-jupiter-api</artifactId>
-    <version>6.0.2</version>
-    <scope>test</scope>
+    <artifactId>junit-jupiter</artifactId>
+    <version>5.12.2</version>
 </dependency>
     <dependency>
       <groupId>junit</groupId>
